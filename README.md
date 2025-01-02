@@ -1,2 +1,2 @@
 # project1
-using github first time
+using github  for first time
